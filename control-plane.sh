@@ -1,0 +1,1 @@
+ssh ubuntu@52.255.163.206 -i keys/control-plane-key.pem -L 8080:localhost:8080
